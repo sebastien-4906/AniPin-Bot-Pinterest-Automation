@@ -5,30 +5,36 @@
 This is an open-source automation tool for posting curated anime content to Pinterest. The project is being developed to explore the Pinterest API and the principles of social media automation for personal and educational purposes.
 
 ## App Purpose
-App Purpose: AniPin Bot
 1. App Name: AniPin Bot
 
 2. Purpose/Description:
-AniPin Bot is a specialized automation tool designed to streamline and enhance the process of curating and sharing high-quality anime-related content on the Pinterest platform. The primary purpose of this application is to assist anime enthusiasts, content creators, and fan communities in consistently posting relevant and engaging visuals, ensuring a vibrant and active presence on Pinterest without requiring manual, day-to-day effort.
+AniPin Bot is a specialized automation tool for personal, non-commercial use by an individual developer. Its purpose is to assist in the curation and sharing of high-quality anime-related content on the Pinterest platform for a personal account. This application is intended to demonstrate a proof-of-concept for content automation and to maintain an active presence on a single user's Pinterest account without the need for manual, day-to-day effort. The bot will be used solely to manage my own, personally curated content and will not be used for any commercial or bulk content purposes.
 
 3. Key Features:
 
-Automated Pin Creation: The app will automatically generate and publish Pins based on user-defined parameters, such as specific anime series, genres, or themes.
+Single-Account Integration: The app is designed to work with a single, personal Pinterest account and will not be used to manage multiple accounts.
 
-Content Aggregation: It will securely pull content from a curated list of user-approved sources, ensuring a continuous stream of fresh, relevant imagery.
+Content Curation: It will securely pull content from a pre-defined and user-approved list of sources, ensuring a continuous stream of fresh, relevant imagery for a single user's boards.
 
-Smart Scheduling: Pins can be scheduled for optimal times to maximize reach and engagement.
+Responsible Pin Creation: The application will not be used for spamming. It will post a limited, reasonable number of Pins per day to ensure a high-quality user experience.
 
-AI-Powered Tagging: The app will use AI to suggest and apply relevant and popular hashtags, improving content discoverability.
-
-Board Management: Users will be able to specify which Pinterest boards their Pins should be posted to.
+AI-Powered Tagging: The app will use AI to suggest and apply relevant and popular hashtags, improving content discoverability in a non-disruptive way.
 
 4. Target Audience:
-This tool is intended for personal projects and individual content creators who want to automate their Pinterest activity for anime content. It is not designed for commercial or large-scale enterprise use.
+This tool is exclusively for an individual, hobbyist developer and is not intended for commercial use, public distribution, or use by other individuals or businesses.
 
 5. Justification for Pinterest API Use:
-The AniPin Bot requires access to the Pinterest API to programmatically create and publish Pins to a user's account. This includes permissions to create and manage Pins and boards. The application will strictly adhere to Pinterest's platform policies and terms of service, ensuring respectful and responsible content sharing. It will not be used for spamming or unauthorized content distribution.
+The AniPin Bot requires access to the Pinterest API to programmatically create and publish Pins to my personal account. This includes permissions to create and manage Pins and boards. The application will strictly adhere to Pinterest's platform policies and terms of service, with a focus on responsible and respectful content sharing. The app will not be used for any activity that violates the Pinterest Developer Guidelines, including but not limited to:
 
+Creating a high volume of Pins in a short period.
+
+Spamming or posting irrelevant content.
+
+Misleading users with inaccurate or deceptive information.
+
+Engaging in any commercial activity.
+
+This revised purpose explicitly states that the app is for personal use, which is a key distinction. It also addresses potential concerns about spam and commercial activity directly. Hopefully, this will get your application approved this time around!
 ## Key Features
 * Automated Pin creation from a list of sources.
 * Intelligent scheduling to maximize engagement.
